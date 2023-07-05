@@ -1,0 +1,106 @@
+python - Error "(unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape" - Stack Overflow
+https://stackoverflow.com/questions/37400974/error-unicode-error-unicodeescape-codec-cant-decode-bytes-in-position-2-3
+
+music21 · PyPI
+https://pypi.org/project/music21/
+
+Music MIDI Collection | Kaggle
+https://www.kaggle.com/datasets/programgeek01/anime-music-midi
+
+Automatic Music Generation | Music Generation Deep Learning
+https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/
+
+AutoMusicGen.ipynb - Colaboratory
+https://colab.research.google.com/github/MJVNOR/DatasetMidiCorridosTumbadosAcustico/blob/main/AutoMusicGen.ipynb#scrollTo=dVeNGstkTYKu
+
+(5) How to Generate Music with Tensorflow (LIVE) - YouTube
+https://www.youtube.com/watch?v=pg9apmwf7og&ab_channel=SirajRaval
+
+How to generate music using Machine Learning | by Arturo Rey | MLearning.ai | Dec, 2022 | Medium
+https://medium.com/mlearning-ai/how-to-generate-music-using-machine-learning-72360ba4a085
+
+Neural Networks — RNN’s and Music Generation | by Jose Alberto Leyva Contreras | Analytics Vidhya | Medium
+https://medium.com/analytics-vidhya/neural-networks-rnns-and-music-generation-a1838dfa6472
+
+Data Science
+https://web.iitd.ac.in/~jay/dsl810/studentpages/Ayush%20Pandey/xsmeke.github.io/final_project.html
+
+(1) Generate Music in TensorFlow - YouTube
+https://www.youtube.com/watch?v=ZE7qWXX05T0&ab_channel=SirajRaval
+
+Generate music with an RNN  |  TensorFlow Core
+https://www.tensorflow.org/tutorials/audio/music_generation
+
+llSourcell/Music_Generator_Demo: Music Generator Demo by @Sirajology on Youtube
+https://github.com/llSourcell/Music_Generator_Demo
+
+llSourcell/AI_Composer: AI Composer for Machine Learning for Hackers #2
+https://github.com/llSourcell/AI_Composer
+
+soumya997/Music-Generation-Using-Deep-Learning: Music Generation Using Deep Learning🎶🎵
+https://github.com/soumya997/Music-Generation-Using-Deep-Learning
+
+Innovative Music Generation with Python and Artificial Intelligence | by J.Mic Mico | Feb, 2023 | Artificial Intelligence in Plain English
+https://ai.plainenglish.io/unleashing-the-power-of-python-and-machine-learning-for-music-generation-eec98a984e77
+
+How to Generate Music using a LSTM Neural Network in Keras | by Sigurður Skúli | Towards Data Science
+https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
+
+Music Generation with Python | Data Science and Machine Learning | Kaggle
+https://www.kaggle.com/general/172724
+
+Python String join()
+https://www.programiz.com/python-programming/methods/string/join
+
+python - What are the differences between type() and isinstance()? - Stack Overflow
+https://stackoverflow.com/questions/1549801/what-are-the-differences-between-type-and-isinstance
+
+RuntimeError: You must compile your model before training/testing. Use `model.compile(optimizer, loss)` with RandomSearch · Issue #397 · keras-team/keras-tuner
+https://github.com/keras-team/keras-tuner/issues/397
+
+python 2.7 - Error in keras - name 'Dense' is not defined - Stack Overflow
+https://stackoverflow.com/questions/37179332/error-in-keras-name-dense-is-not-defined
+
+NameError: name 'LSTM' is not defined · Issue #37137 · tensorflow/tensorflow
+https://github.com/tensorflow/tensorflow/issues/37137
+
+python 3.x - name 'Sequential' is not defined Python3 Keras - Stack Overflow
+https://stackoverflow.com/questions/60861760/name-sequential-is-not-defined-python3-keras
+
+Python - Loop Tuples
+https://www.w3schools.com/python/python_tuples_loop.asp
+
+enumerate loop python - Google Search
+https://www.google.ca/search?q=enumerate+loop+python&sxsrf=APwXEdcJcVz1uDC8jD1lWaVBMWDirEHN0Q%3A1680206011301&ei=u-glZNmEEruv0PEP_tKeqA8&oq=enumerate+loop&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMggIABCKBRCRAjIFCAAQgAQyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BAgjECc6CAgAEIoFEIYDOgoIABCABBAUEIcCOhAIABCABBAUEIcCELEDEIMBOggIABAWEB4QD0oECEEYAFC0B1ifUmDfWWgCcAF4AYAB5AGIAecRkgEGMS4xNy4xmAEAoAEByAEIwAEB&sclient=gws-wiz-serp
+
+Python using enumerate inside list comprehension - Stack Overflow
+https://stackoverflow.com/questions/10777271/python-using-enumerate-inside-list-comprehension
+
+Create a Dictionary in Python – Python Dict Methods
+https://www.freecodecamp.org/news/create-a-dictionary-in-python-python-dict-methods/#:~:text=To%20create%20an%20empty%20dictionary%2C%20first%20create%20a%20variable%20name,set%20of%20curly%20braces%2C%20%7B%7D%20.&text=Another%20way%20of%20creating%20an,function%20without%20passing%20any%20arguments.
+
+Python enumerate()
+https://www.programiz.com/python-programming/methods/built-in/enumerate
+
+Basics of NumPy Arrays - GeeksforGeeks
+https://www.geeksforgeeks.org/basics-of-numpy-arrays/
+
+Python | Counter Objects | elements() - GeeksforGeeks
+https://www.geeksforgeeks.org/python-counter-objects-elements/
+
+Python - Access Dictionary Items
+https://www.w3schools.com/python/python_dictionaries_access.asp
+
+python - Using a dictionary to count the items in a list - Stack Overflow
+https://stackoverflow.com/questions/3496518/using-a-dictionary-to-count-the-items-in-a-list
+
+A Guide to Long Short Term Memory (LSTM) Networks
+https://www.knowledgehut.com/blog/web-development/long-short-term-memory
+
+Understanding of LSTM Networks - GeeksforGeeks
+https://www.geeksforgeeks.org/understanding-of-lstm-networks/
+
+
+
+
+
